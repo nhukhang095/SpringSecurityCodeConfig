@@ -1,1 +1,1 @@
-# SpringSecurityCodeConfig
+# Spring Security Configure by Code
